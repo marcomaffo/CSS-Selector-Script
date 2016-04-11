@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Use the alt key to select any element on any website and get the absolute selector displayed on the bottom right corner
 // @author       Marco Boldt
-// @match        *://*/*
+// @include      *
 // @grant        none
 // ==/UserScript==
 
